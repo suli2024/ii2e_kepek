@@ -1,0 +1,17 @@
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.egy {
+    float: left;
+    margin-right: 10px;
+}
+
+.ketto {
+    float: right;
+    margin-left: 10px;
+}
+
+p {
+    text-align: justify;
+}
